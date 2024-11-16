@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=8YKD0KoqrVs&list=PLfTHehdp_dARyAg9GIo4ijO8LZDkiu
 
 - [Prettier](https://eslint.org/)
 - [Eslint](https://prettier.io/)
-- [React Redux](https://react-redux.js.org/)
+- [asdf](https://asdf-vm.com/)
 
 ## Clone this repo
 
@@ -64,3 +64,8 @@ E-mail: profissionalf.andre@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/devfandre/<br>
 Portfólio: https://developer-felipe-andre.vercel.app/
 Youtube: https://www.youtube.com/channel/UCpa56e5UWv9ath05GBwYlAg
+<<<<<<< HEAD
+=======
+
+# boiterplate-nestjs-youtube-videos
+>>>>>>> 6a59eba (fix: fixing Other tools section)
