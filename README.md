@@ -37,7 +37,7 @@ git clone git@github.com:fandredev/boiterplate-nestjs-youtube-videos.git
 ## Run server
 
 ```
- yarn run dev
+ yarn run start:dev
 ```
 
 ## Run linter
